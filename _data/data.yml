@@ -108,11 +108,11 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "Co-Developer in a team project with Evdoxia Tsiogka "Designing and developing an Airline database". We created a fully functional airline database from scratch using MySql and we desighned a user interface in Python- MySql."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
-        tagline: "A team project with Evdoxia Tsiogka analyzing and updating the information system of Sky Express Airline."
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
         link: "#"
