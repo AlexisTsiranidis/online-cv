@@ -106,12 +106,11 @@ projects:
     intro: >
       A list of all my major University Projects.
     assignments:
-      - title: "Designing and developing an Airline database"
+      - title: Designing and developing an Airline database
         link: "#hook"
-        tagline: "Co-Developer in a team project with Evdoxia Tsiogka "Designing and developing an Airline database". We created a fully functional airline database from scratch using MySql and we desighned a user interface in Python.
-          - MySql."
+        tagline: "Co-Developer in a team project with Evdoxia Tsiogka "Designing and developing an Airline database". We created a fully functional airline database from scratch using MySql and we desighned a user interface in Python- MySql."
 
-      - title: "Analyzing the information system of Sky Express Airline"
+      - title: Analyzing the information system of Sky Express Airline
         link: "#"
         tagline: "A team project with Evdoxia Tsiogka analyzing and updating the information system of Sky Express Airline."
 
