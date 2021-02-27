@@ -107,7 +107,7 @@ projects:
       A list of all my major University Projects.
     assignments:
       - title: Designing and developing an Airline database
-        link: "#hook"
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: Analyzing the information system of Sky Express Airline
