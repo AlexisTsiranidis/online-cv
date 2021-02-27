@@ -85,20 +85,20 @@ skills:
       - name: Python
         level: 90%
 
+      - name: C
+        level: 60%
+
+      - name: C++
+        level: 50%
+       
+      - name: Java
+        level: 50%
+        
       - name: HTML5 & CSS
         level: 70%
 
       - name: MySQL
         level: 80%
-
-      - name: C
-        level: 60%
-
-      - name: Java
-        level: 50%
-        
-      - name: C++
-        level: 50%
         
       - name: MS Office
         level: 100%
