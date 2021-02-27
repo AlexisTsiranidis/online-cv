@@ -67,7 +67,7 @@ projects:
     assignments:
       - title: Designing and developing an Airline database
         link: 
-        tagline: "CoDeveloper in a team project with [Evdoxia Tsiogka](https://github.com/rmfe). We created a fully functional airline database from scratch using MySql and we desighned a user interface in Python."
+        tagline: "CoDeveloper in a team project with Evdoxia Tsiogka. We created a fully functional airline database from scratch using MySql and we desighned a user interface in Python."
 
       - title: Analyzing the information system of Sky Express Airline
         link: 
@@ -82,23 +82,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: MySQL
+        level: 80%
 
-      - name: Sketch & Photoshop
+      - name: C
         level: 60%
+
+      - name: MS Office
+        level: 100%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
