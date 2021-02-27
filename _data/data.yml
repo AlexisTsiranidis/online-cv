@@ -106,7 +106,7 @@ projects:
     intro: >
       A list of all my major University Projects.
     assignments:
-      - title: Velocity
+      - title: Designing and developing an Airline database
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
