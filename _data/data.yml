@@ -82,25 +82,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - name: Python 90%
         level: 90%
 
-      - name: C
+      - name: C 60%
         level: 60%
 
-      - name: C++
+      - name: C++ 50%
         level: 50%
        
       - name: Java
         level: 50%
         
-      - name: HTML5 & CSS
+      - name: HTML5 & CSS 70%
         level: 70%
 
-      - name: MySQL
+      - name: MySQL 80%
         level: 80%
         
-      - name: MS Office
+      - name: MS Office 100%
         level: 100%
 
 
